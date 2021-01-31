@@ -1,3 +1,0 @@
-np.arange(0,21,1)
-np.arange(0,21,2)
-np.arange(0,21,3)
